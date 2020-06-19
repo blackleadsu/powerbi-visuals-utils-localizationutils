@@ -27,7 +27,7 @@
     "typescript": "2.4.2"
   },
   "dependencies": {
-    "@types/decompress": "4.2.0",
+    "@types/decompress": "4.2.3",
     "@types/jquery": "3.2.16",
     "decompress": "4.2.1",
     "decompress-targz": "4.1.1",
